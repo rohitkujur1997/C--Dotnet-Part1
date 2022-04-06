@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\1.Calculator\1.Calculator\obj\Debug\1.Calculator.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\1.Calculator\1.Calculator\obj\Debug\1.Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\1.Calculator\1.Calculator\obj\Debug\1.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\1.Calculator\1.Calculator\bin\Debug\1.Calculator.exe.config
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\1.Calculator\1.Calculator\bin\Debug\1.Calculator.exe
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\1.Calculator\1.Calculator\bin\Debug\1.Calculator.pdb
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\1.Calculator\1.Calculator\obj\Debug\1.Calculator.exe
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\1.Calculator\1.Calculator\obj\Debug\1.Calculator.pdb
