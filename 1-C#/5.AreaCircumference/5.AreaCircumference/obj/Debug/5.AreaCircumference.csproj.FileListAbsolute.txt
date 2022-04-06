@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\5.AreaCircumference\5.AreaCircumference\obj\Debug\5.AreaCircumference.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\5.AreaCircumference\5.AreaCircumference\obj\Debug\5.AreaCircumference.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\5.AreaCircumference\5.AreaCircumference\obj\Debug\5.AreaCircumference.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\5.AreaCircumference\5.AreaCircumference\bin\Debug\5.AreaCircumference.exe.config
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\5.AreaCircumference\5.AreaCircumference\bin\Debug\5.AreaCircumference.exe
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\5.AreaCircumference\5.AreaCircumference\bin\Debug\5.AreaCircumference.pdb
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\5.AreaCircumference\5.AreaCircumference\obj\Debug\5.AreaCircumference.exe
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\5.AreaCircumference\5.AreaCircumference\obj\Debug\5.AreaCircumference.pdb
