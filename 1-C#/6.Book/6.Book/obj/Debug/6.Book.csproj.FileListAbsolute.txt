@@ -1,0 +1,3 @@
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\6.Book\6.Book\obj\Debug\6.Book.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\6.Book\6.Book\obj\Debug\6.Book.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\1-C#\6.Book\6.Book\obj\Debug\6.Book.csproj.CoreCompileInputs.cache
