@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateEvents\DelegateEvents\bin\Debug\DelegateEvents.exe.config
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateEvents\DelegateEvents\bin\Debug\DelegateEvents.exe
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateEvents\DelegateEvents\bin\Debug\DelegateEvents.pdb
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateEvents\DelegateEvents\obj\Debug\DelegateEvents.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateEvents\DelegateEvents\obj\Debug\DelegateEvents.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateEvents\DelegateEvents\obj\Debug\DelegateEvents.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateEvents\DelegateEvents\obj\Debug\DelegateEvents.exe
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateEvents\DelegateEvents\obj\Debug\DelegateEvents.pdb

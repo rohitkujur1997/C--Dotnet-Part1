@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\C#-Dotnet-Part1\7-C#\FileIOProgram1\FileIOProgram1\bin\Debug\FileIOProgram1.exe.config
+C:\Users\PC\source\repos\C#-Dotnet-Part1\7-C#\FileIOProgram1\FileIOProgram1\bin\Debug\FileIOProgram1.exe
+C:\Users\PC\source\repos\C#-Dotnet-Part1\7-C#\FileIOProgram1\FileIOProgram1\bin\Debug\FileIOProgram1.pdb
+C:\Users\PC\source\repos\C#-Dotnet-Part1\7-C#\FileIOProgram1\FileIOProgram1\obj\Debug\FileIOProgram1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\7-C#\FileIOProgram1\FileIOProgram1\obj\Debug\FileIOProgram1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\7-C#\FileIOProgram1\FileIOProgram1\obj\Debug\FileIOProgram1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\7-C#\FileIOProgram1\FileIOProgram1\obj\Debug\FileIOProgram1.exe
+C:\Users\PC\source\repos\C#-Dotnet-Part1\7-C#\FileIOProgram1\FileIOProgram1\obj\Debug\FileIOProgram1.pdb

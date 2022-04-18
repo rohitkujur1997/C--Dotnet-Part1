@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\C#-Dotnet-Part1\8-C#\ReflectionProblem2\ReflectionProblem2\bin\Debug\ReflectionProblem2.exe.config
+C:\Users\PC\source\repos\C#-Dotnet-Part1\8-C#\ReflectionProblem2\ReflectionProblem2\bin\Debug\ReflectionProblem2.exe
+C:\Users\PC\source\repos\C#-Dotnet-Part1\8-C#\ReflectionProblem2\ReflectionProblem2\bin\Debug\ReflectionProblem2.pdb
+C:\Users\PC\source\repos\C#-Dotnet-Part1\8-C#\ReflectionProblem2\ReflectionProblem2\obj\Debug\ReflectionProblem2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\8-C#\ReflectionProblem2\ReflectionProblem2\obj\Debug\ReflectionProblem2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\8-C#\ReflectionProblem2\ReflectionProblem2\obj\Debug\ReflectionProblem2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\8-C#\ReflectionProblem2\ReflectionProblem2\obj\Debug\ReflectionProblem2.exe
+C:\Users\PC\source\repos\C#-Dotnet-Part1\8-C#\ReflectionProblem2\ReflectionProblem2\obj\Debug\ReflectionProblem2.pdb

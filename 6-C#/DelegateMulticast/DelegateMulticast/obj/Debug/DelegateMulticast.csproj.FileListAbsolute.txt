@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateMulticast\DelegateMulticast\bin\Debug\DelegateMulticast.exe.config
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateMulticast\DelegateMulticast\bin\Debug\DelegateMulticast.exe
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateMulticast\DelegateMulticast\bin\Debug\DelegateMulticast.pdb
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateMulticast\DelegateMulticast\obj\Debug\DelegateMulticast.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateMulticast\DelegateMulticast\obj\Debug\DelegateMulticast.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateMulticast\DelegateMulticast\obj\Debug\DelegateMulticast.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateMulticast\DelegateMulticast\obj\Debug\DelegateMulticast.exe
+C:\Users\PC\source\repos\C#-Dotnet-Part1\6-C#\DelegateMulticast\DelegateMulticast\obj\Debug\DelegateMulticast.pdb
